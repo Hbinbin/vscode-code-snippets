@@ -1,0 +1,8 @@
+{
+    "useHooks": {
+        "prefix": "useHover",
+        "body": [
+            "const isHover = useHover(Ref)",
+        ]
+    }
+}
