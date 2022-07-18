@@ -1,0 +1,8 @@
+{
+    "useHooks": {
+        "prefix": "useMounted",
+        "body": [
+            "const isMounted = useMounted()",
+        ]
+    }
+}

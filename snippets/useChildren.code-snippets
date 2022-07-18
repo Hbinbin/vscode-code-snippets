@@ -1,0 +1,8 @@
+{
+    "useHooks": {
+        "prefix": "useChildren",
+        "body": [
+            "const children = useChildren(slots)",
+        ]
+    }
+}

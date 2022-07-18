@@ -1,0 +1,46 @@
+{
+    "name": "tools-code-snippets",
+    "displayName": "tools-code-snippets",
+    "description": "代码提示工具",
+    "version": "0.0.1",
+    "publisher": "haobin",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/useReactive.code-snippets"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+            "language": "typescript",
+            "path": "./snippets/snippets.code-snippets"
+            },
+            {
+            "language": "typescript",
+            "path": "./snippets/useReactive.code-snippets"
+            },
+            {
+            "language": "typescriptreact",
+            "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "homepage": ""
+}

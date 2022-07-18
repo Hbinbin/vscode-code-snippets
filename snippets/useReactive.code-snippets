@@ -1,0 +1,8 @@
+{
+    "useHooks": {
+        "prefix": "useReactive",
+        "body": [
+            "const [value, setValue] = useReactive(initialState.value)",
+        ]
+    }
+}

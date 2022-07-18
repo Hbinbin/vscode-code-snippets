@@ -1,0 +1,12 @@
+{
+    "scss": {
+        "prefix": "scss",
+        "body": [
+            "\\$prefixCls: \"\";",
+            "",
+            ".#{\\$prefixCls} {",
+            "",
+            "}",
+        ]
+    }
+}
