@@ -1,0 +1,8 @@
+{
+    "useHooks": {
+        "prefix": "tool-base",
+        "body": [
+            "import {} from '@lt/tool-base'",
+        ]
+    }
+}

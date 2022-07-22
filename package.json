@@ -36,6 +36,23 @@
                 "language": "javascript",
                 "path": "./snippets/useHover.code-snippets"
             },
+            {
+                "language": "javascript",
+                "path": "./snippets/tool-components.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/tool-base.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/vue-hooks.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/line-style.code-snippets"
+            },
+
 
 
            {
@@ -62,6 +79,22 @@
                 "language": "javascriptreact",
                 "path": "./snippets/useHover.code-snippets"
             },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/tool-components.code-snippets"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/tool-base.code-snippets"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/vue-hooks.code-snippets"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/line-style.code-snippets"
+            },
 
 
             {
@@ -88,6 +121,22 @@
                 "language": "typescript",
                 "path": "./snippets/useHover.code-snippets"
             },
+            {
+                "language": "typescript",
+                "path": "./snippets/tool-components.code-snippets"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/tool-base.code-snippets"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/vue-hooks.code-snippets"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/line-style.code-snippets"
+            },
 
 
             {
@@ -113,13 +162,33 @@
             {
                 "language": "typescriptreact",
                 "path": "./snippets/useHover.code-snippets"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/useHover.code-snippets"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/tool-components.code-snippets"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/tool-base.code-snippets"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/vue-hooks.code-snippets"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/line-style.code-snippets"
             }
           
         ]
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/Hbinbin/vscode-code-snippets"
     },
-    "homepage": ""
+    "homepage": "https://github.com/Hbinbin/vscode-code-snippets/README.md"
 }

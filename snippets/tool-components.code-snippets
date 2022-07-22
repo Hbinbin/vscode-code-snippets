@@ -1,0 +1,8 @@
+{
+    "useHooks": {
+        "prefix": "tool-components",
+        "body": [
+            "import {} from '@lt/tool-components'",
+        ]
+    }
+}

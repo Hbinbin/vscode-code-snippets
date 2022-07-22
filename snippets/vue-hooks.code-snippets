@@ -1,0 +1,8 @@
+{
+    "useHooks": {
+        "prefix": "vue-hooks",
+        "body": [
+            "import {} from '@lt/vue-hooks'",
+        ]
+    }
+}

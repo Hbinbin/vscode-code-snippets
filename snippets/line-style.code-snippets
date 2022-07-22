@@ -1,0 +1,8 @@
+{
+    "useHooks": {
+        "prefix": "line-style",
+        "body": [
+            "import {} from 'line-style'",
+        ]
+    }
+}

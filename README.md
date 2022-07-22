@@ -1,6 +1,6 @@
 # 快速生成代码块
 
-vue3的组件模板
+### vue3的组件模板
 ```
 import { watchEffect } from 'vue'
 import { useDefineComponent, useReactive } from '@lt/vue-hooks';
@@ -22,7 +22,7 @@ const Name = useDefineComponent<IProps>({
 export default Name
 ```
 
-sass文件模板
+### sass文件模板
 ```
 $prefixCls: "";
 
@@ -31,18 +31,38 @@ $prefixCls: "";
 }
 ```
 
-useReactive
+#### useReactive
 
 ```
 const [value, setValue] = useReactive(initialState.value)
 ```
 
-useChildren
+#### useChildren
 ```
 const children = useChildren(slots)
 ```
 
-useMounted
+#### useMounted
 ```
 const isMounted = useMounted()
+```
+
+
+### 文件引入
+
+#### tool-components
+```
+import {} from '@lt/tool-components'
+```
+#### tool-base
+```
+import {} from '@lt/tool-base'
+```
+#### line-style
+```
+import {} from '@lt/line-style'
+```
+#### vue-hooks
+```
+import {} from '@lt/vue-hooks'
 ```
