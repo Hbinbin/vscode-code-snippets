@@ -2,7 +2,7 @@
     "name": "tools-code-snippets",
     "displayName": "tools-code-snippets",
     "description": "代码提示工具",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "haobin",
     "engines": {
         "vscode": "^1.69.0"
