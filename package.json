@@ -13,12 +13,13 @@
     "contributes": {
         "snippets": [
             {
-                "language": "javascript",
-                "path": "./snippets/vue3.code-snippets"
+                "language": "scss",
+                "path": "./snippets/scss.code-snippets"
             },
+
             {
                 "language": "javascript",
-                "path": "./snippets/scss.code-snippets"
+                "path": "./snippets/vue3.code-snippets"
             },
             {
                 "language": "javascript",
@@ -59,10 +60,7 @@
                 "language": "javascriptreact",
                 "path": "./snippets/vue3.code-snippets"
             },
-            {
-                "language": "javascriptreact",
-                "path": "./snippets/scss.code-snippets"
-            },
+           
             {
                 "language": "javascriptreact",
                 "path": "./snippets/useReactive.code-snippets"
@@ -103,10 +101,6 @@
             },
             {
                 "language": "typescript",
-                "path": "./snippets/scss.code-snippets"
-            },
-            {
-                "language": "typescript",
                 "path": "./snippets/useReactive.code-snippets"
             },
             {
@@ -142,10 +136,6 @@
             {
                 "language": "typescriptreact",
                 "path": "./snippets/vue3.code-snippets"
-            },
-            {
-                "language": "typescriptreact",
-                "path": "./snippets/scss.code-snippets"
             },
             {
                 "language": "typescriptreact",
