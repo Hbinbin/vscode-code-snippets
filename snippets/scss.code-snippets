@@ -1,6 +1,6 @@
 {
     "scss": {
-        "prefix": "scss",
+        "prefix": ["scss", "sass"],
         "body": [
             "\\$prefixCls: \"\";",
             "",
